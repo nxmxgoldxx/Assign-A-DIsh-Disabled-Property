@@ -1,0 +1,17 @@
+{
+  "name": "assign-a-dish",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": [],
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
